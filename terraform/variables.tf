@@ -16,7 +16,7 @@ variable "location" {
   default     = "we"
 }
 
-variable "johnsa2" {
+variable "name" {
   description = "The name to use for the different parts of the deployment"
   type        = string
   default     = "johnsa2"
